@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dd1.co.in/sitemap.xml
